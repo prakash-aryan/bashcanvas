@@ -1,4 +1,4 @@
-# BashCanvas
+![Screenshot from 2024-08-21 11-15-12](https://github.com/user-attachments/assets/db81ab49-9adc-4d53-9302-338d67a2965e)# BashCanvas
 
 BashCanvas is a custom bash profile manager that allows you to switch between different themed terminal environments easily. It provides a more personalized and enjoyable command-line experience with visually appealing prompts and useful functions.
 
@@ -11,7 +11,18 @@ BashCanvas is a custom bash profile manager that allows you to switch between di
 
 ## Screenshots
 
-(TODO: Add screenshots for each profile here)
+### Cosmic Explorer
+![Screenshot from 2024-08-21 11-12-46](https://github.com/user-attachments/assets/f199f5f7-3dce-44eb-a18d-652c6c971988)
+
+### Cyberpunk Hacker
+![Screenshot from 2024-08-21 11-13-12](https://github.com/user-attachments/assets/9bf3171b-3c37-4a27-9eca-1caf37b4f897)
+
+### Forest Dweller
+![Screenshot from 2024-08-21 11-15-12](https://github.com/user-attachments/assets/557750b2-983e-4ee1-8290-7e06491736de)
+
+### Oceanic Dream
+![Screenshot from 2024-08-21 11-13-43](https://github.com/user-attachments/assets/86425c90-d6de-47d8-99db-ca82f87fba75)
+
 
 ## Installation
 
@@ -74,6 +85,7 @@ BashCanvas is a custom bash profile manager that allows you to switch between di
    ```bash
    source ~/.bashrc
    ```
+   and open a new terminal to see the changes
 
 ## Uninstallation
 
@@ -99,6 +111,7 @@ To remove BashCanvas and its settings:
    ```bash
    source ~/.bashrc
    ```
+   and open a new terminal to see the changes
 
 ## Contributing
 
