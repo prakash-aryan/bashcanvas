@@ -1,4 +1,4 @@
-![Screenshot from 2024-08-21 11-15-12](https://github.com/user-attachments/assets/db81ab49-9adc-4d53-9302-338d67a2965e)# BashCanvas
+# BashCanvas
 
 BashCanvas is a custom bash profile manager that allows you to switch between different themed terminal environments easily. It provides a more personalized and enjoyable command-line experience with visually appealing prompts and useful functions.
 
